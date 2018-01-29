@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceDungeon.UI", "SpaceDungeon\SpaceDungeon.UI.csproj", "{1C74C4EA-58AD-49EB-A64E-B3AEFCD00CA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceDungeon.Logic", "Project1\SpaceDungeon.Logic.csproj", "{62D912BA-2559-426C-A6A1-73A498D41FBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceDungeon.Data", "SpaceDungeon.Data\SpaceDungeon.Data.csproj", "{356C4B8E-0CA9-4780-8A12-9E2015B63B7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C74C4EA-58AD-49EB-A64E-B3AEFCD00CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C74C4EA-58AD-49EB-A64E-B3AEFCD00CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C74C4EA-58AD-49EB-A64E-B3AEFCD00CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C74C4EA-58AD-49EB-A64E-B3AEFCD00CA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62D912BA-2559-426C-A6A1-73A498D41FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D912BA-2559-426C-A6A1-73A498D41FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D912BA-2559-426C-A6A1-73A498D41FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D912BA-2559-426C-A6A1-73A498D41FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{356C4B8E-0CA9-4780-8A12-9E2015B63B7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{356C4B8E-0CA9-4780-8A12-9E2015B63B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{356C4B8E-0CA9-4780-8A12-9E2015B63B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{356C4B8E-0CA9-4780-8A12-9E2015B63B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
